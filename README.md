@@ -71,3 +71,8 @@ This guide provides detailed instructions for setting up TurtleBot3 navigation o
     roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
     ```
     ![saved map](https://github.com/user-attachments/assets/e1306dcc-6e70-488a-afe2-3c8403d9ff69)
+
+## Troubleshooting
+
+If you encounter any issues during the installation, please refer to the [TurtleBot3 e-Manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) for detailed instructions and troubleshooting tips.
+
